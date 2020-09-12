@@ -1,6 +1,6 @@
 # Functional territories of basal ganglia
 
-This repository holds the official release of connectivity maps of functional territories of the basal ganglia. 
+This repository holds the official release of structural connectivity maps of functional territories of the basal ganglia. 
 
 In particular, it contains:
 - functional territories of striatum, subthalamic nucleus and thalamus according to their cortical connectivity.
