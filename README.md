@@ -2,7 +2,7 @@
 
 This repository holds the official release of connectivity maps of functional territories of the basal ganglia. 
 
-The repository contains:
+In particular, it contains:
 - functional territories of striatum, subthalamic nucleus and thalamus according to their cortical connectivity.
 - connectivity parcels of GPi and GPe according to their main subcortical connectional systems (striatopallidal, subthalamopallidal and pallidothalamic pathways)
 
